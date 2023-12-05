@@ -12,6 +12,7 @@ Once you've registered, you'll get an email with participation instructions. As 
 | -------------------- | ------------------------------------ | ----------------------------- |
 | Benjamin Eckel       | Using OpenAPI to generate host and guest bindings | https://github.com/extism/openapi-rs-pdk-template https://github.com/extism/extism_openapi_rb |
 | Steve Manuel         | A full-stack web hosting solution powered by Extism and WebAssembly. FTP + web server + KV store + Wasm plugins | https://github.com/dylibso/stackism |
+| Muhammad Azeez | A space shooter game built on Godot engine that uses Extism to make modding easy | https://github.com/mhmd-azeez/extism-space-commander |
 | Add yours above in a PR! | ... | ... |
 
 ## Submitting your project
