@@ -10,7 +10,7 @@ Once you've registered, you'll get an email with participation instructions. As 
 
 | Name                 | Project Description                  | Repository URL                | 
 | -------------------- | ------------------------------------ | ----------------------------- |
-| Benjamin Eckel       | Using OpenAPI to generate hosts and guest bindings | https://github.com/extism/openapi-rs-pdk-template https://github.com/extism/extism_openapi_rb |
+| Benjamin Eckel       | Using OpenAPI to generate host and guest bindings | https://github.com/extism/openapi-rs-pdk-template https://github.com/extism/extism_openapi_rb |
 | Add yours above in a PR! | ... | ... |
 
 ## Submitting your project
