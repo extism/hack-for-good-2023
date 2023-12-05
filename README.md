@@ -6,6 +6,12 @@ If you've landed here without previously seeing the hackathon information page, 
 Once you've registered, you'll get an email with participation instructions. As always, please join us on 
 [Discord](https://extism.org/discord) and ask around the `#hackathon` channel for help, inspiration, etc.
 
+## Tools / Libraries
+- Extism SDKs & PDKs (see [Extism.org](https://extism.org) as an entrypoint).
+- [`extism-react`](https://www.npmjs.com/package/@extism/react) - great for React developers!
+- [Modsurfer](https://modsurfer.dylibso.com) a _NEW_ version of our WebAssembly debugging and insights tool.
+- Check out the participant entries below for inspiration!
+
 ## Participants
 
 | Name                 | Project Description                  | Repository URL                | 
