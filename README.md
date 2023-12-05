@@ -11,6 +11,7 @@ Once you've registered, you'll get an email with participation instructions. As 
 | Name                 | Project Description                  | Repository URL                | 
 | -------------------- | ------------------------------------ | ----------------------------- |
 | Benjamin Eckel       | Using OpenAPI to generate host and guest bindings | https://github.com/extism/openapi-rs-pdk-template https://github.com/extism/extism_openapi_rb |
+| Steve Manuel         | A full-stack web hosting solution powered by Extism and WebAssembly. FTP + web server + KV store + Wasm plugins | https://github.com/dylibso/stackism |
 | Add yours above in a PR! | ... | ... |
 
 ## Submitting your project
