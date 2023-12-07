@@ -11,6 +11,7 @@ Once you've registered, you'll get an email with participation instructions. As 
 - [`extism-react`](https://www.npmjs.com/package/@extism/react) - great for React developers!
 - [Modsurfer](https://modsurfer.dylibso.com) a _NEW_ version of our WebAssembly debugging and insights tool.
 - Check out the participant entries below for inspiration!
+- Like CLI tools? Consider adding a plugin to the [`proto`](https://moonrepo.dev/docs/proto/wasm-plugin) mono-repo manager!
 
 ## Participants
 
