@@ -23,6 +23,7 @@ Once you've registered, you'll get an email with participation instructions. As 
 | Muhammad Azeez | A space shooter game built on Godot engine that uses Extism to make modding easy | https://github.com/mhmd-azeez/extism-space-commander |
 | Dominique Saulet | Adds an Extism powered plugin system for trading strategies to the [OpenBB Terminal](https://github.com/OpenBB-finance/OpenBBTerminal) | https://github.com/neuronicnobody/OpenBBTerminal/tree/feature/extism-plugins |
 | Philippe Charrière   | Ready to use development platform to learn Extism plug-in creation (🍊 Gitpod project + 🐳 Docker image) | https://github.com/bots-garden/extism-playground |
+| Gavin Hayes   | A miniaudio audio decoder sandboxed in Wasm using Extism. An example audio player is included. | https://github.com/extism/extism-miniaudio |
 | Add yours above in a PR! | ... | ... |
 
 ## Submitting your project
