@@ -25,6 +25,7 @@ Once you've registered, you'll get an email with participation instructions. As 
 | Philippe Charrière   | Ready to use development platform to learn Extism plug-in creation (🍊 Gitpod project + 🐳 Docker image) | https://github.com/bots-garden/extism-playground |
 | Gavin Hayes   | A miniaudio audio decoder sandboxed in Wasm using Extism. An example audio player is included. | https://github.com/extism/extism-miniaudio |
 | Jayson Harshbarger | Exposes f-flat-minor's AssemblyScript implementation as an Extism plugin | https://github.com/Hypercubed/f-flat-minor/tree/main/assemblyscript |
+| Chris Dickinson | Run Wasm in Blender (with generated Rust bindings!) | https://github.com/dylibso/blextism |
 | Add yours above in a PR! | ... | ... |
 
 ## Submitting your project
