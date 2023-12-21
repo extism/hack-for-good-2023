@@ -27,6 +27,8 @@ Once you've registered, you'll get an email with participation instructions. As 
 | Zach Shipko   | A fork of the [Helix](https://helix-editor.com/) editor with support of Wasm plug-ins using Extism | https://github.com/extism/helix |
 | Jayson Harshbarger | Exposes f-flat-minor's AssemblyScript implementation as an Extism plugin | https://github.com/Hypercubed/f-flat-minor/tree/main/assemblyscript |
 | Chris Dickinson | Run Wasm in Blender (with generated Rust bindings!) | https://github.com/dylibso/blextism |
+| Benjamin Eckel  & Dominique Saulet      | Reactables: Shrinkwrapped, Portable, and Secure React Component | https://github.com/dylibso/reactables |
+
 | Add yours above in a PR! | ... | ... |
 
 ## Submitting your project
